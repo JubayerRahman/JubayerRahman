@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I am a student. Here I will try to share my learned skills in programming and will try to share my ideas through different projects.
 
 <!--
 **JubayerRahman/JubayerRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
