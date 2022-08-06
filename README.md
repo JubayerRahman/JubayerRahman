@@ -1,7 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)]( https://jubayerrahman.github.io)
 <h1 align="center">Hi 👋, I'm JubayerRahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Hello" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerrahman&label=Profile%20views&color=0e75b6&style=plastic" alt="jubayerrahman" /> </p>
 
