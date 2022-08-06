@@ -11,6 +11,12 @@
 
 - 💬 Ask me about **JavaScript, Html, Css, BootStrap, Api**
 
+- 📫 How to reach me **jubayerr398@gmail.com**
+
+- ⚡ Fun fact **I think I am Super-Man**
+
+- 💬 Ask me about **JavaScript, Html, Css, BootStrap, Api**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jubayer-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jubayer-rahman/" height="30" width="40" /></a>
