@@ -14,7 +14,7 @@ https://jubayerrahman.github.io)
 - 🔭 I’m currently working on
 [Fiverr](https://www.fiverr.com/users/jubayer_rahman) - 🌱 I’m currently
 learning **React, React Native** - 💬 Ask me about **JavaScript, Html, Css,
-BootStrap, Api** - 📫 How to reach me **jubayerr398@gmail.com** - ⚡ Fun fact
+BootStrap, Tailwind, React, Api** - 📫 How to reach me **jubayerr398@gmail.com** - ⚡ Fun fact
 **I think I am Super-Man** - 💬 Ask me about **JavaScript, Html, Css, BootStrap,
 Api**
 
