@@ -1,4 +1,4 @@
-[![Layout](https://i.ibb.co/m40CqFg/Black-And-Gold-Vintage-Vlogger-Youtube-Banner-2.png)](https://www.linkedin.com/in/jubayer-rahman)
+[![Layout](https://i.ibb.co/1G8dkP0/Black-And-Gold-Vintage-Vlogger-Youtube-Banner-3.png)](https://www.linkedin.com/in/jubayer-rahman)
 <h1 align="center">
 Hi👋, I am JOBAYER RAHMAN OHEE,
 <br/>
@@ -9,8 +9,9 @@ a Mern-stack developer from Banglsdesh.🧑‍💻
 
 <div align="center">
 <a style="color: white; font-size:20px;" href="tel:01853062525">📞Call: 01853062525 ||</a>
-<a style="color: white; font-size:20px;" href="mailto:jubayerr398@gmail.com">📧 Mail: Jubyerr398@gmail.com</a>
+<a style="color: white; font-size:20px; text-decoration:none; color:white" href="mailto:jubayerr398@gmail.com">📧 Mail: Jubyerr398@gmail.com</a>
 </div>
+
 
 <p align="left">
   <img
@@ -25,7 +26,7 @@ I'm Jobayer Rahman Ohee, a passionate <b>MERN stack developer</b> in the 8th sem
 
 
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,md,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,md,wordpress&perline=7)](https://skillicons.dev)
 
 
 # Tools useed:
