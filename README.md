@@ -32,7 +32,7 @@ I'm Jobayer Rahman Ohee, a passionate <b>MERN stack developer</b> in the 8th sem
 # Tools useed:
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,photoshop,figma,vscode)](https://skillicons.dev)
 
-# My Social Accounts:
+# My Social Handles:
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jubayerr398)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jubayer-rahman)
 
