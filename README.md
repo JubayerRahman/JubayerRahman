@@ -1,8 +1,16 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)](
-https://jubayerrahman.github.io)
-<h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<!--<img align="right" alt="Hello" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>-->
+[![Layout](https://i.ibb.co/m40CqFg/Black-And-Gold-Vintage-Vlogger-Youtube-Banner-2.png)](https://www.linkedin.com/in/jubayer-rahman)
+<h1 align="center">
+Hi👋, I am JOBAYER RAHMAN OHEE,
+<br/>
+<span style="font-size:25px;">
+a Mern-stack developer from Banglsdesh.🧑‍💻
+</span>
+</h1>
+
+<div align="center">
+<a style="color: white; font-size:20px;" href="tel:01853062525">📞Call: 01853062525 ||</a>
+<a style="color: white; font-size:20px;" href="mailto:jubayerr398@gmail.com">📧 Mail: Jubyerr398@gmail.com</a>
+</div>
 
 <p align="left">
   <img
@@ -11,144 +19,21 @@ https://jubayerrahman.github.io)
   />
 </p>
 
-- 🔭 I’m currently working on
-[Fiverr](https://www.fiverr.com/users/jubayer_rahman) - 🌱 I’m currently
-learning **React, React Native** - 💬 Ask me about **JavaScript, Html, Css,
-BootStrap, Tailwind, React, Api** - 📫 How to reach me **jubayerr398@gmail.com** - ⚡ Fun fact
-**I think I am Super-Man** - 💬 Ask me about **JavaScript, Html, Css, BootStrap,
-Api**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/jubayer-rahman/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/jubayer-rahman/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/https://www.facebook.com/15855jubayer" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/15855jubayer"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.behance.net/https://www.behance.net/oheeoree106e4d"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-      alt="https://www.behance.net/oheeoree106e4d"
-      height="30"
-      width="40"
-  /></a>
+<p style="font-size:20px">
+I'm Jobayer Rahman Ohee, a passionate <b>MERN stack developer</b> in the 8th semester of my computer technology diploma at Feni Polytechnic Institute. Eager to dive into the tech industry, I combine my academic prowess with hands-on experience as a freelancer. Recently, I conquered the challenges of the MERN Stack with a successful course from Programming Hero, showcasing my commitment to staying at the forefront of web development. With a track record of academic excellence and a drive for innovation, I'm ready to embark on a fulfilling career in the dynamic world of web development. Let's create something extraordinary! <a style="font-size:16px" href="mailto:jubayerr398@gmail.com">📧Mail me</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerrahman&"
-    alt="jubayerrahman"
-  />
-</p>
+
+# My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,md,wordpress)](https://skillicons.dev)
+
+
+# Tools useed:
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,photoshop,figma,vscode)](https://skillicons.dev)
+
+# My Social Accounts:
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jubayerr398)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jubayer-rahman)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JubayerRahman&theme=dark)](https://git.io/streak-stats)
