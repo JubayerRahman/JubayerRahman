@@ -8,8 +8,8 @@ a Mern-stack developer from Banglsdesh.🧑‍💻
 </h1>
 
 <div align="center">
-<a style="color: white; font-size:20px;" href="tel:01853062525">📞Call: 01853062525 ||</a>
-<a style="color: white; font-size:20px; text-decoration:none; color:white" href="mailto:jubayerr398@gmail.com">📧 Mail: Jubyerr398@gmail.com</a>
+<a style="color: white; font-size:20px;" href="tel:01853062525">📞: 01853062525 ||</a>
+<a style="color: white; font-size:20px; text-decoration:none; color:white" href="mailto:jubayerr398@gmail.com">📧: Jubyerr398@gmail.com</a>
 </div>
 
 
