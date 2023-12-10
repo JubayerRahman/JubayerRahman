@@ -28,11 +28,15 @@ I'm Jobayer Rahman Ohee, a passionate <b>MERN stack developer</b> in the 8th sem
 # My Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,md,wordpress&perline=7)](https://skillicons.dev)
 
+# intrested in:
+[![My Skills](https://skillicons.dev/icons?i=php,threejs,flutter,laravel,nextjs,py,redux,raspberrypi,vue)](https://skillicons.dev)
+
+
 
 # Tools useed:
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,photoshop,figma,vscode)](https://skillicons.dev)
 
-# My Social Handles:
+# My Social Accounts:
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jubayerr398)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jubayer-rahman)
 
