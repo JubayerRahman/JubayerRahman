@@ -3,7 +3,7 @@
 Hi👋, I am JOBAYER RAHMAN OHEE,
 <br/>
 <span style="font-size:25px;">
-MERN Stack & Mobile App Developer from Bangladesh 🧑‍💻
+a Mern-stack developer from Banglsdesh.🧑‍💻
 </span>
 </h1>
 
@@ -11,6 +11,7 @@ MERN Stack & Mobile App Developer from Bangladesh 🧑‍💻
 <a style="color: white; font-size:20px;" href="tel:01853062525">📞: 01853062525 ||</a>
 <a style="color: white; font-size:20px; text-decoration:none; color:white" href="mailto:jubayerr398@gmail.com">📧: Jubyerr398@gmail.com</a>
 </div>
+
 
 <p align="left">
   <img
@@ -20,62 +21,26 @@ MERN Stack & Mobile App Developer from Bangladesh 🧑‍💻
 </p>
 
 <p style="font-size:20px">
-I'm Jobayer Rahman Ohee, a passionate <b>MERN Stack & Mobile App Developer</b> currently in my 8th semester of Computer Technology at Feni Polytechnic Institute. I specialize in building robust web applications with the MERN stack and cross-platform mobile apps. With hands-on experience in freelancing and comprehensive training from Programming Hero, I'm equipped to create seamless digital experiences across web and mobile platforms. Ready to bring innovative ideas to life! <a style="font-size:16px" href="mailto:jubayerr398@gmail.com">📧Mail me</a>
+I'm Jobayer Rahman Ohee, a passionate <b>MERN stack developer</b> in the 8th semester of my computer technology diploma at Feni Polytechnic Institute. Eager to dive into the tech industry, I combine my academic prowess with hands-on experience as a freelancer. Recently, I conquered the challenges of the MERN Stack with a successful course from Programming Hero, showcasing my commitment to staying at the forefront of web development. With a track record of academic excellence and a drive for innovation, I'm ready to embark on a fulfilling career in the dynamic world of web development. Let's create something extraordinary! <a style="font-size:16px" href="mailto:jubayerr398@gmail.com">📧Mail me</a>
 </p>
 
-## 📊 GitHub Analytics
 
-<div align="center">
+# My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,md,wordpress&perline=7)](https://skillicons.dev)
+
+# intrested in:
+[![My Skills](https://skillicons.dev/icons?i=php,threejs,flutter,laravel,nextjs,py,redux,raspberrypi,vue)](https://skillicons.dev)
+
+
+
+# Tools useed:
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,photoshop,figma,vscode)](https://skillicons.dev)
+
+# My Social Accounts:
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jubayerr398)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jubayer-rahman)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JubayerRahman&theme=dark)](https://git.io/streak-stats)
 
-[![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JubayerRahman&show_icons=true&theme=radical&hide_border=true)](https://github.com/JubayerRahman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JubayerRahman&layout=compact&theme=radical&hide_border=true)](https://github.com/JubayerRahman)
-
-</div>
-
-## 🛠️ Development Stack
-
-### 🌐 Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,javascript,react,nodejs,express,firebase,mongodb,nextjs,vue&perline=7)](https://skillicons.dev)
-
-### 📱 Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=flutter,react,firebase,androidstudio,kotlin,java&perline=6)](https://skillicons.dev)
-
-### 🔧 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,photoshop,figma,vscode,postman&perline=8)](https://skillicons.dev)
-
-## 🎯 Currently Exploring
-[![My Skills](https://skillicons.dev/icons?i=php,threejs,laravel,py,redux,raspberrypi,aws,docker&perline=8)](https://skillicons.dev)
-
-## 📱 App Development Focus
-
-<div align="center">
-
-**Cross-Platform Mobile Solutions** | **React Native & Flutter** | **RESTful APIs** | **Firebase Integration**
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jubayerr398)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jubayer-rahman)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/JubayerRahman)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:jubayerr398@gmail.com)
-
-</div>
-
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### 💡 *Crafting digital experiences for web and mobile* 📱✨
-
-</div>
+look in this format, I want you to give me result in this same format. or make something unique based n these info which will show my profession as App developer
